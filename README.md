@@ -1,1 +1,1 @@
-Simple blog with Laravel
+Simple Laravel blog with admin panel
